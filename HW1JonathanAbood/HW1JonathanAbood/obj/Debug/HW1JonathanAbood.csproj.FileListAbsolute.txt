@@ -1,0 +1,6 @@
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\bin\Debug\HW1JonathanAbood.exe.config
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\bin\Debug\HW1JonathanAbood.exe
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\bin\Debug\HW1JonathanAbood.pdb
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\obj\Debug\HW1JonathanAbood.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\obj\Debug\HW1JonathanAbood.exe
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\HW1JonathanAbood\HW1JonathanAbood\obj\Debug\HW1JonathanAbood.pdb
