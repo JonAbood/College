@@ -1,0 +1,6 @@
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\bin\Debug\CardDeckHWJonathanAbood.exe.config
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\bin\Debug\CardDeckHWJonathanAbood.exe
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\bin\Debug\CardDeckHWJonathanAbood.pdb
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\obj\Debug\CardDeckHWJonathanAbood.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\obj\Debug\CardDeckHWJonathanAbood.exe
+\\banner.main.ad.rit.edu\students\jma6344\IGMProfile\Desktop\IGM102\CardDeckHWJonathanAbood\CardDeckHWJonathanAbood\obj\Debug\CardDeckHWJonathanAbood.pdb
